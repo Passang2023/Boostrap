@@ -1,0 +1,22 @@
+.text{
+    width: 50%;
+    padding-top: 3%;
+    padding-left: 10%;
+
+}
+
+.imge{
+    position: relative;
+    right: 30px;
+    
+}
+
+/* service */
+.card-body{
+   padding: 5%;
+}
+
+.card-body i{
+    font-size: 50px;
+    padding: 2%;
+}
